@@ -182,7 +182,7 @@ dependencies {
 	
 	//Hazelcast
 	implementation group: 'com.hazelcast', name: 'hazelcast-all', version : '4.0.3'	
-	implementation group: 'com.hazelcast', name: 'hazelcast-spring', version: '4.0.3'
+	implementation group: 'com.hazelcast', name: 'hazelcast-spring', version: '4.2.1'
 	
 	
 	// Swagger 2
